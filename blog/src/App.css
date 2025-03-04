@@ -39,3 +39,7 @@ body, html {
   border-bottom: none;
 }
 
+button{
+  margin: 5px;
+}
+
